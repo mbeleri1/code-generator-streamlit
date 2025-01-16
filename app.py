@@ -57,11 +57,3 @@ if st.button("Generate Code"):
         st.code(generated_code, language="python")
     else:
         st.error("Please provide a valid description.")
-Click Commit New File.
-
-b. Add requirements.txt
-Click on Add File > Create New File again.
-Name the file requirements.txt.
-Paste the following content:
-streamlit
-together
